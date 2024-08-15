@@ -34,7 +34,7 @@ class GPTDetectorView(APIView):
 
         url = "https://api-inference.huggingface.co/models/Hello-SimpleAI/chatgpt-detector-roberta"
         headers = {
-            "Authorization": f"Bearer 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",  # Replace with your Hugging Face API key
+            "Authorization": f"Bearer Hugging Face API",  # Replace with your Hugging Face API key
             "Content-Type": "application/json"
         }
 
